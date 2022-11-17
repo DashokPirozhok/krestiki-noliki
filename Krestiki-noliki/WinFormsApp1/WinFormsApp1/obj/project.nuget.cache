@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "loPsfCHB8cX1DZscN1a9Elv9mZ1awGaA/drMob52s5vO/uDgu6w1+db8CwzVPpQMQ9BR2Vo/AMekYBf950k43A==",
+  "success": true,
+  "projectFilePath": "D:\\Даша\\tic-tac-toe-main\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hovre\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\hovre\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\hovre\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\hovre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
